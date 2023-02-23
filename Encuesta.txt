@@ -1,0 +1,23 @@
+Nombre: 
+
+Puesto:
+
+¿Cuál es el problema principal con el manejo de sus inventarios? 
+
+¿Por qué existe este problema? 
+
+¿Cuál es el nivel educativo de las personas que usarán este sistema? 
+
+¿Todas las sucursales tienen equipo de computo? 
+
+¿Cuenta con acceso a internet en todas las sucursales? 
+
+¿De qué forma lleva el control de mercancías actualmente? 
+
+¿Con qué canales de comunicación cuenta para atender a sus clientes?
+
+¿Cuáles son sus espectativas respecto a la realización de esta aplicación? 
+
+El contar con un sistema de inventarios conectado con todas las sucursales, ¿es benéfico para ustedes?
+
+¿Cuánto capital está dispuesto a invertir en los recursos necesarios para la creación de este sistema? 
