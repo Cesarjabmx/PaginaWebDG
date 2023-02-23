@@ -12,6 +12,12 @@ Porque desde hace varios años no hemos cambiado este sistema.
 Y cuando quisimos implementar un sistema de inventarios virtual este nos generaba muchos problemas a la hora de utilizarlo, lo cual no era
 muy conveniente para nosotros, pues nos quitaba demasiado tiempo y resultaba igual o mejor seguir trabajando en papel. 
 
+¿Cuáles fueron las dificultades que se presentaron con el actual sistema que maneja?
+
+¿Cuántas personas tienen acceso al sistema? 
+
+Los problemas que ha presentado, ¿le han causado perdida de clientes?
+
 ¿Cuál es el nivel educativo de las personas que usarán este sistema? 
 Tienen nivel de bachillerato y secundaria, con conocimientos básicos del manejo de una computadora. 
 
