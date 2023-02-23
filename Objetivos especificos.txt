@@ -7,9 +7,31 @@ Hicimos una cita con ellos para que pudieran atendernos y de esta manera resolve
 Con base en las respuestas que obtuvimos pudimos determinar los requerimientos funcionales y no funcionales.
 *Consultar el archivo de la encuesta respondida*
 
-El cliente necesita tener un sistema de inventarios que sea confiable, que no presente errores y que le permita administrar de la 
-mejor manera sus mercancías para tener un orden sobre estas, a su vez tener un nuevo canal de difución para llegar a mas clientes
-dentro de la región. 
+Una página web diseñada para el control de inventarios de una empresa y la venta en línea debe cumplir con varios requerimientos funcionales y no funcionales para garantizar su funcionalidad y eficiencia. A continuación, se describen los principales requerimientos que se deben tomar en cuenta al desarrollar este tipo de sitio web.
 
-Esto se va a logara de la siguiente manera: 
+Requerimientos Funcionales:
+
+Registro de productos: La página web debe permitir a los usuarios registrar nuevos productos, incluyendo la información detallada sobre cada uno, como el nombre del producto, el código de barras, la descripción, el precio, la categoría, la cantidad disponible, entre otros datos relevantes.
+
+Control de inventario: La página web debe permitir al usuario controlar su inventario en tiempo real, es decir, saber la cantidad de productos disponibles, los productos que se han vendido y los productos que se han agregado al inventario.
+
+Realización de ventas en línea: La página web debe permitir a los clientes realizar compras en línea, agregar productos al carrito de compras y procesar los pagos de manera segura. Además, la página web debe tener un sistema de seguimiento de pedidos para que los clientes puedan conocer el estado de su pedido en todo momento.
+
+Administración de pedidos: La página web debe permitir a los usuarios administrar los pedidos realizados por los clientes, como actualizar el estado del pedido, imprimir etiquetas de envío, entre otras acciones.
+
+Reportes e informes: La página web debe tener la capacidad de generar reportes e informes sobre las ventas, el inventario y otros datos relevantes, para que los usuarios puedan tomar decisiones informadas sobre la gestión de su negocio.
+
+Requerimientos No Funcionales:
+
+Seguridad: La página web debe ser segura y proteger la información de los clientes y de la empresa. Debe contar con un sistema de encriptación de datos para garantizar que los datos de los clientes no sean robados o manipulados por terceros.
+
+Velocidad: La página web debe ser rápida y tener una carga rápida para que los usuarios no pierdan interés en el sitio. Además, la página web debe estar optimizada para dispositivos móviles para que los usuarios puedan acceder a ella desde cualquier lugar.
+
+Escalabilidad: La página web debe ser escalable y tener la capacidad de crecer junto con el negocio. Debe poder manejar un gran volumen de tráfico y ventas sin que se vea afectado su rendimiento.
+
+Usabilidad: La página web debe ser fácil de usar y navegar, tanto para los clientes como para los usuarios internos. La información debe ser clara y fácil de entender.
+
+Soporte: La página web debe contar con un buen servicio de soporte técnico, para que los usuarios puedan resolver cualquier problema o duda que surja durante el uso de la plataforma.
+
+En conclusión, una página web diseñada para el control de inventarios y la venta en línea debe cumplir con varios requerimientos funcionales y no funcionales para garantizar su eficiencia y funcionalidad. La seguridad, la velocidad, la escalabilidad, la usabilidad y el soporte son algunos de los aspectos más importantes que se deben tomar en cuenta al desarrollar este tipo de sitio web. Al cumplir con estos requisitos, se asegura que el sitio web cumpla con las necesidades del negocio y de los clientes. 
 
