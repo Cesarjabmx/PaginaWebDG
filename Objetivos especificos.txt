@@ -1,7 +1,15 @@
-#Descripción completa del primer objetivo específico
+Descripción completa del primer objetivo específico
 -¿Qué hicimos?
 El método que nosotros utilizamos para obtener la información necesaria para nuestro proyecto fue la aplicación de una encuesta a los dueños.
 -¿Cómo lo hicimos?
 Hicimos una cita con ellos para que pudieran atendernos y de esta manera resolver todas las dudas de los puntos que deberían cubrirse.
 -¿Que resultados obtuvimos?
-Con base en las respuestas que obtuvimos pudimos determinar los requerimientos funcionales y no funcionales
+Con base en las respuestas que obtuvimos pudimos determinar los requerimientos funcionales y no funcionales.
+*Consultar el archivo de la encuesta respondida*
+
+El cliente necesita tener un sistema de inventarios que sea confiable, que no presente errores y que le permita administrar de la 
+mejor manera sus mercancías para tener un orden sobre estas, a su vez tener un nuevo canal de difución para llegar a mas clientes
+dentro de la región. 
+
+Esto se va a logara de la siguiente manera: 
+
