@@ -1,3 +1,3 @@
 # PaginaWebDG
 
-Documentación del proyecto de taller de investigación 2
+Este repositorio sólo contiene la documentación del proyecto de taller de investigación 2
