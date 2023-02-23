@@ -13,10 +13,23 @@ Y cuando quisimos implementar un sistema de inventarios virtual este nos generab
 muy conveniente para nosotros, pues nos quitaba demasiado tiempo y resultaba igual o mejor seguir trabajando en papel. 
 
 ¿Cuáles fueron las dificultades que se presentaron con el actual sistema que maneja?
+El sistema no era estable, dejaba de funcionar sin previo aviso.
 
 ¿Cuántas personas tienen acceso al sistema? 
+Todos los empleados encargados de ventas tienen acceso al sistema, en total son 3, uno por cada sucursal. 
 
 Los problemas que ha presentado, ¿le han causado perdida de clientes?
+No, pero si hemos recibido quejas por la tardanza que este nos genera.
+
+¿Qué es lo más necesario mejorar del sistema que actualmente trabaja?
+Que sea confiable y no deje de funcionar. 
+
+¿Para usted es mas util un sistema web o aplicación de escritorio?
+Un sistema web, pues de esta manera no es necesario instalar nada en las computadoras con las que contamos. 
+
+¿Su sistema cuenta con el control de las tres sucursales?
+Por el momento cada sucursal trabaja independientemente, por lo cual queremos que el sistema que ustedes desarrollen pueda tener
+comunicación de todas nuestras sucursales entre sí.
 
 ¿Cuál es el nivel educativo de las personas que usarán este sistema? 
 Tienen nivel de bachillerato y secundaria, con conocimientos básicos del manejo de una computadora. 
