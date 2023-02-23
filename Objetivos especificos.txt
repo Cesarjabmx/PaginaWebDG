@@ -1,4 +1,7 @@
-Descripción completa del primer objetivo específico
+#Descripción completa del primer objetivo específico
 -¿Qué hicimos?
+El método que nosotros utilizamos para obtener la información necesaria para nuestro proyecto fue la aplicación de una encuesta a los dueños.
 -¿Cómo lo hicimos?
+Hicimos una cita con ellos para que pudieran atendernos y de esta manera resolver todas las dudas de los puntos que deberían cubrirse.
 -¿Que resultados obtuvimos?
+Con base en las respuestas que obtuvimos pudimos determinar los requerimientos funcionales y no funcionales
