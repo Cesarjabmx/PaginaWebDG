@@ -1,0 +1,39 @@
+Nombre: Jesus Pizrro
+
+Puesto: Gerente 
+
+¿Cuál es el problema principal con el manejo de sus inventarios? 
+Al tener 3 sucursales en Tehuacán nos resulta complicado llevar un correcto inventario y la mejor distribución de las mercancías cuando las recibimos 
+y las distribuimos, posteriormente, no siempre se lleva el control adecuado una vez que entran a las tiendas, ya que este es en papel y muchas veces
+no se hacen las actualizaciones en el momentos, causando así errores en los inventarios. 
+
+¿Por qué existe este problema? 
+Porque desde hace varios años no hemos cambiado este sistema. 
+Y cuando quisimos implementar un sistema de inventarios virtual este nos generaba muchos problemas a la hora de utilizarlo, lo cual no era
+muy conveniente para nosotros, pues nos quitaba demasiado tiempo y resultaba igual o mejor seguir trabajando en papel. 
+
+¿Cuál es el nivel educativo de las personas que usarán este sistema? 
+Tienen nivel de bachillerato y secundaria, con conocimientos básicos del manejo de una computadora. 
+
+¿Todas las sucursales tienen equipo de computo? 
+Sí
+
+¿Cuenta con acceso a internet en todas las sucursales? 
+Sí
+
+¿De qué forma lleva el control de mercancías actualmente? 
+En una bitacora de en papel. 
+
+¿Con qué canales de comunicación cuenta para atender a sus clientes?
+Medios digitales como son whatsapp, facebook, correo electronico, telefono fijo y celular. 
+
+¿Cuáles son sus espectativas respecto a la realización de esta aplicación? 
+Con la creación de esta aplicación esperamos por fin tener el control mas exacto de nuestras mercacncías y la distribución de estas, también
+darle un medio más a nuestros clientes para comprar nuestros productos. 
+
+El contar con un sistema de inventarios conectado con todas las sucursales, ¿es benéfico para ustedes?
+Completamente, pues nos reducirá considerablemente los tiempos a la hora de realizar inventarios y esperamos tener una respuesta oportuna de los 
+clientes para mejorar nuestras ventas. 
+
+¿Cuánto capital está dispuesto a invertir en los recursos necesarios para la creación de este sistema? 
+Aún no lo tenemos bien definido, pero un total de entre $10,000 a $25,000
